@@ -1,0 +1,42 @@
+Preparation from 
+1. https://medium.com/@vaishnavi.shinde4188
+2. https://medium.com/@misalPav103
+3. https://medium.com/@chetxn
+
+1st Explanation
+Day 1: Getting Started with DevOps
+90DaysOfDevops:
+
+Day 1:
+
+1. DevOps.
+
+A: DevOps is a methodology, that refers to Development and Operations. Where people and processes unite together to form a product. This fills up the gap between Development and Operations teams through Open-source Build Tools.
+
+2. Automation.
+
+A: Automation: It is a process, where human inputs are minimized. To speed up the task and reduce human errors.
+
+3. Scaling or scalability.
+
+It is the ability of an application or a system to increase or decrease the performance or cost, as per the requirements.
+
+4. Infrastructure.
+
+IT Infrastructure is made up of hardware and software, just an example of a Data Centre, that is hosted remotely, and there, we manage all the hardware stuff, networks, and operating systems with the help of the internet. It’s quite hard to manage the infrastructure manually, a lot of manual effort is required to maintain it. Cost expenditure increased on the failure of the physical memory board, network switches etc.
+
+Nowadays, it’s quite easy to manage the infrastructure with Cloud providers like #Azure, #AWS, and #GCP. We don’t need to purchase the hardware; we just use the services and Pay as per the “Per-As-You-Go” model with the help of stable internet.
+
+Importance of DevOps.
+
+· Continuous Deployment or Delivery.
+
+· Reduced deployment failures.
+
+· High Efficiency, Reliability, and scalability.
+
+· Less manual effort.
+
+· Least or no downtime.
+
+Reduced cost.
